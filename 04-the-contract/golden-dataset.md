@@ -64,15 +64,19 @@ Escalation path:
 AI Contract Audit
 
 ↓
+
 Human Reviewer
 
 ↓
+
 Correction
 
 ↓
+
 Golden Dataset
 
 ↓
+
 Future Evaluations
 
 Reviewer corrections are stored and reused to improve future recommendations.
