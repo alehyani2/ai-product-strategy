@@ -62,12 +62,16 @@ Compliance or safety flags are raised
 Escalation path:
 
 AI Contract Audit
+
 ↓
 Human Reviewer
+
 ↓
 Correction
+
 ↓
 Golden Dataset
+
 ↓
 Future Evaluations
 
